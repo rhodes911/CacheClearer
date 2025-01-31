@@ -1,0 +1,13 @@
+{
+    "name": "Clear Cache with One Click",
+    "description": "A simple extension that clears your cache with one click.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+      "browsingData"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
